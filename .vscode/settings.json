@@ -1,3 +1,13 @@
 {
-	"cSpell.words": ["nodenext", "vectorious"]
+	"cSpell.words": [
+		"dotenv",
+		"eslintcache",
+		"jscoverage",
+		"jspm",
+		"nodenext",
+		"pids",
+		"stylelintcache",
+		"vectorious",
+		"wscript"
+	]
 }
